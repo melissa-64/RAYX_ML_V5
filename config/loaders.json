@@ -1,4 +1,13 @@
 {
     "defaultListView": false,
-    "loaders": []
+    "loaders": [
+        {
+            "id": "AFK Tool",
+            "name": "AFK Tool",
+            "categoryId": "others",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/Others_Products/AFKTool_V2.8.1.exe",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/PNG_Fotos/afk.gif"
+        }
+    ]
 }
