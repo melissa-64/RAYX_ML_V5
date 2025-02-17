@@ -15,10 +15,10 @@
             "action": "#00fff7"
         },
         "background": {
-            "main": "#121212"
+            "main": "#000000"
         },
         "fixed": {
-            "titleBar": "#121212"
+            "titleBar": "#000000"
         }
     }
 }
