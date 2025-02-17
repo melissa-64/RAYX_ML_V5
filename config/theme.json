@@ -1,0 +1,24 @@
+{
+    "theme": {
+        "core": {
+            "primary": "#404040",
+            "secondary": "#202020",
+            "accent": "#606060",
+            "scrollbar": "#505050"
+        },
+        "text": {
+            "primary": "#FFFFFF",
+            "secondary": "#D0D0D0"
+        },
+        "button": {
+            "category": "#404040",
+            "action": "#505050"
+        },
+        "background": {
+            "main": "#121212"
+        },
+        "fixed": {
+            "titleBar": "#121212"
+        }
+    }
+}
