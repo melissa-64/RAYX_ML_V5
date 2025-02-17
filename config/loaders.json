@@ -24,6 +24,14 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/MW3_Products/MW3_Raysoft_Chair.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/mw3_raysoft_chair.gif"
+        },
+        {
+            "id": "Unlock All",
+            "name": "Unlock All",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/BO6_Products/gW2AKBCc.exe",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/ua.gif"
         }
     ]
 }
