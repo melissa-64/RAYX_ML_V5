@@ -16,6 +16,14 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/BO6_Products/Raysoft_UAV.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/uav_BO6.gif"
+        },
+        {
+            "id": "Raysoft Chair",
+            "name": "Raysoft Chair",
+            "categoryId": "mw3",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/MW3_Products/MW3_Raysoft_Chair.exe",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/mw3_raysoft_chair.gif"
         }
     ]
 }
