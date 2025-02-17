@@ -25,6 +25,14 @@
             "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/uav_BO6.gif"
         },
         {
+            "id": "External Chair",
+            "name": "External Chair",
+            "categoryId": "mw3",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/BO6_Products/hTjTMlaMksKfEwIkwB.exe",
+            "status": "updating",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/External_Chair.gif"
+        },
+        {
             "id": "Raysoft Chair",
             "name": "Raysoft Chair",
             "categoryId": "mw3",
@@ -39,14 +47,6 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/BO6_Products/gW2AKBCc.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/ua.gif"
-        },
-        {
-            "id": "External Chair",
-            "name": "External Chair",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/BO6_Products/hTjTMlaMksKfEwIkwB.exe",
-            "status": "updating",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/External_Chair.gif"
         },
         {
             "id": "MW1 Chair",
