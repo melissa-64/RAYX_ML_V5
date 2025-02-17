@@ -48,6 +48,14 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/Others_Products/MW1_Chair.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/Others_Products/MW1_Chair.gif"
+        },
+        {
+            "id": "VPN",
+            "name": "VPN",
+            "categoryId": "others",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/Others_Products/VPN_Raysoft.exe",
+            "status": "offline",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/Others_Products/VPN.gif"
         }
     ]
 }
