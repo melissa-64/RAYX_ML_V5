@@ -71,6 +71,14 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/BO6_Products/hTjTMlaMksKfEwIkwB.exe",
             "status": "offline",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/DMA_Cod_Chair.gif"
+        },
+        {
+            "id": "MW3 External Chair",
+            "name": "MW3 External Chair",
+            "categoryId": "mw3",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/BO6_Products/hTjTMlaMksKfEwIkwB.exe",
+            "status": "updating",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/External_Chair.gif"
         }
     ]
 }
