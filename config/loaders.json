@@ -8,6 +8,14 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/Others_Products/AFKTool_V2.8.1.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/PNG_Fotos/afk.gif"
+        },
+        {
+            "id": "UAV",
+            "name": "UAV",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/BO6_Products/Raysoft_UAV.exe",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/uav_BO6.gif"
         }
     ]
 }
