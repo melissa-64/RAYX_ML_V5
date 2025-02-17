@@ -1,5 +1,4 @@
 {
-    "defaultListView": false,
     "loaders": [
         {
             "id": "AFK Tool",
@@ -37,7 +36,7 @@
             "id": "External Chair",
             "name": "External Chair",
             "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/BO6_Products/External_Chair_V2.exe",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/BO6_Products/hTjTMlaMksKfEwIkwB.exe",
             "status": "updating",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/External_Chair.gif"
         },
