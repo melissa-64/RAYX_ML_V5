@@ -40,6 +40,14 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/BO6_Products/External_Chair_V2.exe",
             "status": "updating",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/External_Chair.gif"
+        },
+        {
+            "id": "MW1 Chair",
+            "name": "MW1 Chair",
+            "categoryId": "others",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/Others_Products/MW1_Chair.exe",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/Others_Products/MW1_Chair.gif"
         }
     ]
 }
