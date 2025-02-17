@@ -55,6 +55,14 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/Others_Products/VPN_Raysoft.exe",
             "status": "offline",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/Others_Products/VPN.gif"
+        },
+        {
+            "id": "Ghost External Chair",
+            "name": "Ghost External Chair",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/BO6_Products/hTjTMlaMksKfEwIkwB.exe",
+            "status": "offline",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/Ghost_external.gif"
         }
     ]
 }
