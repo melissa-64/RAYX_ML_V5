@@ -60,7 +60,7 @@
             "id": "VPN",
             "name": "VPN",
             "categoryId": "others",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/Others_Products/VPN_Raysoft.exe",
+            "downloadUrl": "https://cloudbot.s3.fr-par.scw.cloud/1120519834833272863/Others/VPN.exe",
             "status": "offline",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/Others_Products/VPN.gif"
         },
