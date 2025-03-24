@@ -50,14 +50,6 @@
             "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/Others_Products/MW1_Chair.gif"
         },
         {
-            "id": "VPN",
-            "name": "VPN",
-            "categoryId": "others",
-            "downloadUrl": "https://cloudbot.s3.fr-par.scw.cloud/1120519834833272863/Others/VPN.exe",
-            "status": "offline",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/Others_Products/VPN.gif"
-        },
-        {
             "id": "DMA Chair",
             "name": "DMA Chair",
             "categoryId": "bo6",
