@@ -39,6 +39,14 @@
             "downloadUrl": "https://cloud.anewvision.fr/1120519834833272863/Black_Ops_6/External_Chair.exe",
             "status": "online",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/fb5cea64-81a1-43d9-0f26-6326ce6b5c00/public"
+        },
+        {
+            "id": "VPN",
+            "name": "VPN",
+            "categoryId": "others",
+            "downloadUrl": "https://cloud.anewvision.fr/1120519834833272863/Others_Tools/Ray-VPN.exe",
+            "status": "online",
+            "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/6c1af281-5c0c-4d42-7231-89e35c979700/public"
         }
     ]
 }
