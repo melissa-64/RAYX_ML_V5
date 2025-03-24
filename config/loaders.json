@@ -1,11 +1,10 @@
 {
-    "defaultListView": false,
     "loaders": [
         {
             "id": "Ghost External Chair",
             "name": "Ghost External Chair",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloudbot.s3.fr-par.scw.cloud/1120519834833272863/BO6_Tools/Loader.exe",
+            "downloadUrl": "https://cloud.anewvision.fr/1120519834833272863/Others_Tools/AFKTool_V2.8.3.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/Ghost_external.gif"
         },
