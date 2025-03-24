@@ -1,13 +1,6 @@
 {
+    "defaultListView": false,
     "loaders": [
-        {
-            "id": "AFK Tool",
-            "name": "AFK Tool",
-            "categoryId": "others",
-            "downloadUrl": "https://cloudbot.s3.fr-par.scw.cloud/1120519834833272863/Others/AFKTool_V2.8.2.exe",
-            "status": "online",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/PNG_Fotos/afk.gif"
-        },
         {
             "id": "Ghost External Chair",
             "name": "Ghost External Chair",
