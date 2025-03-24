@@ -26,14 +26,6 @@
             "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/ua.gif"
         },
         {
-            "id": "MW1 Chair",
-            "name": "MW1 Chair",
-            "categoryId": "others",
-            "downloadUrl": "https://cloudbot.s3.fr-par.scw.cloud/1120519834833272863/Others/MW1_Chair.exe",
-            "status": "online",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/Others_Products/MW1_Chair.gif"
-        },
-        {
             "id": "DMA Chair",
             "name": "DMA Chair",
             "categoryId": "bo6",
