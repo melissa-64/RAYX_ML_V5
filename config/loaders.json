@@ -10,14 +10,6 @@
             "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/Ghost_external.gif"
         },
         {
-            "id": "External Chair",
-            "name": "External Chair",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloudbot.s3.fr-par.scw.cloud/1120519834833272863/BO6_Tools/External_Chair.exe",
-            "status": "online",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1120519834833272863_cloud/main/GIF_Photos/External_Chair.gif"
-        },
-        {
             "id": "UAV",
             "name": "UAV",
             "categoryId": "bo6",
